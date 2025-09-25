@@ -15,6 +15,7 @@ function loadContent() {
         });
 }
 
+
 // Load content when the page loads
 window.addEventListener("load", loadContent);
 
